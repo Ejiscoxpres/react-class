@@ -1,5 +1,6 @@
 export default function Profile() {
     return(
+        <div>
         
         <img
       src="https://i.imgur.com/lICfvbD.jpg"
@@ -7,7 +8,7 @@ export default function Profile() {
     />
     
     
-
+    </div>
     )
 
 }
