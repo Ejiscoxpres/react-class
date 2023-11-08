@@ -1,6 +1,13 @@
-export default function Congratulations() {
+export default function Profile() {
     return(
-        <h1> Great God !</h1>
+        
+        <img
+      src="https://i.imgur.com/lICfvbD.jpg"
+      alt="Lekam Lekam"
+    />
+    
+    
+
     )
 
 }
