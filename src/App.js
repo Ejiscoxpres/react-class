@@ -6,9 +6,17 @@ export default function Profile() {
       src="https://i.imgur.com/lICfvbD.jpg"
       alt="Lekam Lekam"
     />
+    <img
+      src="https://i.imgur.com/lICfvbD.jpg"
+      alt="Lekam Lekam"
+    />
+    <img
+      src="https://i.imgur.com/lICfvbD.jpg"
+      alt="Lekam Lekam"
+    />
     
     
     </div>
-    )
+    );
 
 }
