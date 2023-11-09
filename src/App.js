@@ -1,4 +1,4 @@
-export  function Profile() {
+  function Profile() {
     return(
         <div>
         
@@ -27,5 +27,5 @@ export default function Gallery() {
             <Profile />
             
         </section>
-    )
+    );
 }
