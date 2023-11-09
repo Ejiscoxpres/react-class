@@ -6,7 +6,7 @@ export default function Profile () {
 
     <img
 
-     src="logo512.png"
+     src="https://imgur.com/gallery/PSfpEyP.jpg"
      alt="Susan Johnson" 
 
     />
