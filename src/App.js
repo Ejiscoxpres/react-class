@@ -7,16 +7,8 @@ export  function Profile() {
       alt="Lekam Lekam"
     />
     <img
-      src="https://i.imgur.com/lICfvbD.jpg"
-      alt="Lekam Lekam"
-    />
-    <img
-      src="https://i.imgur.com/lICfvbD.jpg"
-      alt="Lekam Lekam"
-    />
-    <img
      src="https://i.imgur.com/MK3eW3As.jpg"
-     alt="Katherine Johnson" 
+     alt="Susan Johnson" 
     />
     
     </div>
