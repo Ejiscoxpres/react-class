@@ -23,3 +23,11 @@ export default function Profile() {
     );
 
 }
+
+export default function Gallery() {
+    return(
+        <section>
+            <hi>Great Secientist</hi>
+        </section>
+    )
+}
