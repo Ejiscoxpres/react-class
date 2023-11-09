@@ -5,7 +5,10 @@ export default function App () {
     return(
         
         
-        <Profile />
+        <div>
+            <Profile />
+            <Gallery />
+        </div>
         
     );
 }

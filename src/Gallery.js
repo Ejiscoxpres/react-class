@@ -1,17 +1,4 @@
-export function Profile() {
-    return(
-        
-    <img
-     src="https://i.imgur.com/MK3eW3As.jpg"
-     alt="Susan Johnson" 
-    />
-   
-
-    
-    
-    );
-
-}
+import {Profile}from './Profile.js';
 
 export default function Gallery() {
     return (
@@ -20,8 +7,7 @@ export default function Gallery() {
             <Profile />
             <Profile />
             <Profile />
-            <Profile />
-            <Profile />
+           
             
         </section>
     );
