@@ -1,4 +1,4 @@
-export default function Profile() {
+export  function Profile() {
     return(
         <div>
         
@@ -28,6 +28,7 @@ export default function Gallery() {
     return(
         <section>
             <hi>Great Secientist</hi>
+            <Profile />
         </section>
     )
 }
