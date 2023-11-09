@@ -29,6 +29,11 @@ export default function Gallery() {
         <section>
             <hi>Great Secientist</hi>
             <Profile />
+            <Profile />
+            <Profile />
+            <Profile />
+            <Profile />
+            
         </section>
     )
 }
