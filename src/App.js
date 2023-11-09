@@ -1,11 +1,16 @@
   function Profile() {
     return(
-        
+        <div>
     <img
      src="https://i.imgur.com/MK3eW3As.jpg"
      alt="Susan Johnson" 
     />
-    
+   <img 
+     src="https://i.imgur.com/lICfvbD.jpg"
+     alt="Lekam Lekam" 
+   />
+
+    </div>
     
     );
 
