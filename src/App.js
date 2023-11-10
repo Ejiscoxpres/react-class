@@ -1,14 +1,9 @@
-import Gallery from "./Gallery.js";
-import Profile from "./Profile.js";
-
-export default function App () {
+export default function Fubara () {
     return(
-        
-        
-        <div>
-            <Profile />
-            <Gallery />
-        </div>
-        
-    );
+        <img 
+        className='fubara'
+        src='https://i. imgur.com/7vD0fPs.jpg'
+        alt='Hassan Emile'
+        />
+    )
 }
