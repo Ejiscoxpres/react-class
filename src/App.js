@@ -1,6 +1,7 @@
-export default function TodoList() {
-    const name='Hassan Emile ';
-    return(
-        <h1>{name}'s To Do List</h1>
-    );
+const date= new Date();
+function formatDate(date) {
+    return new Intl.DateTimeFormat(
+        'en-Us',
+        {weekday: 'long'}
+    ).format(date);
 }
